@@ -1,3 +1,22 @@
 {
-  "orderRadius": 4
+  "subscribers": [
+    {
+      "device_id": "DEVICE_001",
+      "phone_number": "+966500000001",
+      "subscription_start": "2026-09-01",
+      "subscription_end": "2026-10-01"
+    },
+    {
+      "device_id": "DEVICE_002",
+      "phone_number": "+966500000002",
+      "subscription_start": "2026-09-15",
+      "subscription_end": "2026-11-15"
+    },
+    {
+      "device_id": "DEVICE_003",
+      "phone_number": "+966500000003",
+      "subscription_start": "2026-09-20",
+      "subscription_end": "2026-12-20"
+    }
+  ]
 }
