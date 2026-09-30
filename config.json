@@ -3,20 +3,20 @@
     {
       "device_id": "c4435528ee95bef6",
       "phone_number": "+966500000001",
-      "subscription_start": "2026-09-09",
-      "subscription_end": "2026-09-20"
+      "subscription_start": "20260909",
+      "subscription_end": "20260920"
     },
     {
       "device_id": "DEVICE_002",
       "phone_number": "+966500000002",
-      "subscription_start": "2026-09-15",
-      "subscription_end": "2026-11-15"
+      "subscription_start": "20260915",
+      "subscription_end": "20261115"
     },
     {
       "device_id": "DEVICE_003",
       "phone_number": "+966500000003",
-      "subscription_start": "2026-09-20",
-      "subscription_end": "2026-12-20"
+      "subscription_start": "20260920",
+      "subscription_end": "20261220"
     }
   ]
 }
