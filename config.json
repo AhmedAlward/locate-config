@@ -65,6 +65,18 @@
       "phone_number": "+966530887398",
       "subscription_start": "20261014",
       "subscription_end": "20261114"
+    },
+    {
+      "device_id": "f257e62147c724e4",
+      "phone_number": "+966507998783",
+      "subscription_start": "20261020",
+      "subscription_end": "20261120"
+    },
+    {
+      "device_id": "361554f32aea1758",
+      "phone_number": "+966507998783",
+      "subscription_start": "20261020",
+      "subscription_end": "20261120"
     }
   ]
 }
