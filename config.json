@@ -51,7 +51,7 @@
     {
       "device_id": "935d187dae9803b2",
       "phone_number": "+966530887398",
-      "subscription_start": "20261010",
+      "subscription_start": "20250910",
       "subscription_end": "20250910"
     },
     {
@@ -77,6 +77,24 @@
       "phone_number": "+966507998783",
       "subscription_start": "20261020",
       "subscription_end": "20261120"
+    },
+    {
+      "device_id": "9896ba4bf3bc64ea",
+      "phone_number": "0503426691",
+      "subscription_start": "20261022",
+      "subscription_end": "20261122"
+    },
+    {
+      "device_id": "9477ad3f94c5ebee",
+      "phone_number": "0503426691",
+      "subscription_start": "20261022",
+      "subscription_end": "20261122"
+    },
+    {
+      "device_id": "8d1284ebf368c30f",
+      "phone_number": "0503426691",
+      "subscription_start": "20261022",
+      "subscription_end": "20261122"
     }
   ]
 }
